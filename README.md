@@ -241,6 +241,13 @@
 * [**Python**: _Generate Music using LSTM Neural Network in Keras_](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
 * [**Python**: _An Introduction to Convolutional Neural Networks_](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 * [**MATLAB / GNU Octave**: Machine Learning - Fundamentals](https://www.coursera.org/learn/machine-learning?)
+
+### Build your own ` Kernel `
+
+* [**C/Assembly** : Writing a simple kernel from scratch.](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
+* [**C/Assembly** : Kernel with keyboard and mouse support.](https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard)
+* [**C/Assembly** : Kernel for beginner. ](https://www.linuxjournal.com/content/what-does-it-take-make-kernel-0)
+
 #### Build your own `Operating System`
 
 * [**Assembly**: _Writing a Tiny x86 Bootloader_](http://joebergeron.io/posts/post_two.html)
